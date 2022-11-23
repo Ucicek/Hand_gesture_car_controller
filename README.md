@@ -2,7 +2,7 @@
 Controlling a car using Hand Gestures
 
 DEMO 
-![Uploading Screen Shot 2022-11-22 at 5.54.39 PM.png…]()
+
 
 
 
